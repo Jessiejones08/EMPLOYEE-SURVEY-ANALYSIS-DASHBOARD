@@ -44,7 +44,7 @@ These findings highlight both strengths (supportive supervisors, fair compensati
 
 
 ## Visualization and Analysis
-![dashboard1](Employee Survey 1.png)
+![dashboard1](https://github.com/Jessiejones08/EMPLOYEE-SURVEY-ANALYSIS-DASHBOARD/blob/main/Employee%20Survey%201.png)
 ![dashboard2](Employee Survey 2.png)
 
 
